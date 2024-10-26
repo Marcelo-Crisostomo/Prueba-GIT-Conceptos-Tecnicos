@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: purple;
+}
+header{
+    background-color: #333;
+    color: #ffffff;
+    text-align: center;
+    padding: 1em 0;/*la primera propiedad aplica arriba y abajo y la segunda izquierda y derecha*/
+
+}
+main{
+    padding: 20px;
+    text-align: center;
+}
+footer{
+    background-color: darkred;
+    color: #ffffff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
